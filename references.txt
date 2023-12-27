@@ -1,0 +1,4 @@
+[1] https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf
+[2] https://youtu.be/3CC4N4z3GJc?si=a72wVshK3_RrHXNi
+[3] https://youtu.be/OtD8wVaFm6E?si=5_X-3uM2gGh6vZhS
+[4] https://xgboost.readthedocs.io/en/stable/parameter.html
